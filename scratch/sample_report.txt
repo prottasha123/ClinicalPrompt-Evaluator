@@ -1,0 +1,12 @@
+PATHOLOGY REPORT
+Patient: Jane Doe
+Age: 52
+Date: 2026-05-09
+Clinical Diagnosis: Invasive Ductal Carcinoma
+Tumor Size: 2.1 cm
+Grade: NHG Grade 2
+Lymph Nodes: 0/15 positive
+ER: Positive (90%)
+PR: Positive (80%)
+HER2: Negative (1+)
+Conclusion: T2N0 Stage IIA Breast Cancer.
